@@ -5,3 +5,4 @@
 *.utoc filter=lfs diff=lfs merge=lfs -text
 PackagedVersion/Intermediate/Build/Win64/BeanBattleRoyale/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch filter=lfs diff=lfs merge=lfs -text
 *.pch filter=lfs diff=lfs merge=lfs -text
+# final touch
