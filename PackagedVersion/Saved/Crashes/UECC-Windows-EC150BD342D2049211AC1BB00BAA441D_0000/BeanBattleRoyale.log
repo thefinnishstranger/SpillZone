@@ -1,0 +1,999 @@
+﻿Log file open, 04/23/25 10:21:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=12500)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BeanBattleRoyale
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "E:/Unreal Projects backups/BeanBattleRoyale/BeanBattleRoyale.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.3775] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i9-13900H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="48d2a7414ad206d3aa40d7949d727fa2"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.245332
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-EC150BD342D2049211AC1BB00BAA441D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.18 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.18 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.19 seconds
+LogConfig: Display: Loading Android ini files took 0.19 seconds
+LogConfig: Display: Loading IOS ini files took 0.19 seconds
+LogConfig: Display: Loading Unix ini files took 0.22 seconds
+LogConfig: Display: Loading Windows ini files took 0.22 seconds
+LogConfig: Display: Loading TVOS ini files took 0.22 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading LinuxArm64 ini files took 0.23 seconds
+LogConfig: Display: Loading Linux ini files took 0.23 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPluginManager: Mounting Project plugin AdvancedSessions
+LogPluginManager: Mounting Project plugin AdvancedSteamSessions
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.51
+LogSteamShared: Steam SDK Loaded!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (24H2) [10.0.26100.3775] (), CPU: 13th Gen Intel(R) Core(TM) i9-13900H, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2025.04.23-15.21.35:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2025.04.23-15.21.35:051][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2025.04.23-15.21.35:051][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2025.04.23-15.21.35:053][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2025.04.23-15.21.35:053][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2025.04.23-15.21.35:053][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2025.04.23-15.21.35:053][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2025.04.23-15.21.35:053][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2025.04.23-15.21.35:053][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2025.04.23-15.21.35:053][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2025.04.23-15.21.35:053][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2025.04.23-15.21.35:053][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2025.04.23-15.21.35:053][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2025.04.23-15.21.35:053][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2025.04.23-15.21.35:156][  0]LogD3D12RHI: Aftermath initialized
+[2025.04.23-15.21.35:156][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2025.04.23-15.21.35:361][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 4070 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2025.04.23-15.21.35:361][  0]LogD3D12RHI: Adapter has 7948MB of dedicated video memory, 0MB of dedicated system memory, and 8001MB of shared system memory, 1 output[s]
+[2025.04.23-15.21.35:433][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2025.04.23-15.21.35:434][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8001MB of shared system memory, 0 output[s]
+[2025.04.23-15.21.35:444][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.6)
+[2025.04.23-15.21.35:444][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8001MB of shared system memory, 0 output[s]
+[2025.04.23-15.21.35:444][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2025.04.23-15.21.35:444][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2025.04.23-15.21.35:444][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2025.04.23-15.21.35:444][  0]LogHAL: Display: Platform has ~ 16 GB [16780615680 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.04.23-15.21.35:444][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2025.04.23-15.21.35:444][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.04.23-15.21.35:444][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.04.23-15.21.35:444][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2025.04.23-15.21.35:444][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects backups/BeanBattleRoyale/Saved/Config/WindowsEditor/Editor.ini]
+[2025.04.23-15.21.35:444][  0]LogInit: Computer: DESKTOP-9N8V251
+[2025.04.23-15.21.35:444][  0]LogInit: User: CochoRnG
+[2025.04.23-15.21.35:444][  0]LogInit: CPU Page size=4096, Cores=14
+[2025.04.23-15.21.35:444][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.04.23-15.21.35:444][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2025.04.23-15.21.35:444][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.04.23-15.21.35:444][  0]LogMemory: Process Physical Memory: 290.05 MB used, 305.53 MB peak
+[2025.04.23-15.21.35:444][  0]LogMemory: Process Virtual Memory: 258.98 MB used, 258.98 MB peak
+[2025.04.23-15.21.35:444][  0]LogMemory: Physical Memory: 10566.96 MB used,  5436.29 MB free, 16003.24 MB total
+[2025.04.23-15.21.35:444][  0]LogMemory: Virtual Memory: 12305.32 MB used,  8817.92 MB free, 21123.24 MB total
+[2025.04.23-15.21.35:444][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2025.04.23-15.21.35:446][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.04.23-15.21.35:459][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2025.04.23-15.21.35:459][  0]LogInit: Using OS detected language (en-US).
+[2025.04.23-15.21.35:459][  0]LogInit: Using OS detected locale (en-US).
+[2025.04.23-15.21.35:461][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2025.04.23-15.21.35:569][  0]LogInit: Setting process to per monitor DPI aware
+[2025.04.23-15.21.35:583][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2025.04.23-15.21.35:583][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2025.04.23-15.21.35:583][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.04.23-15.21.35:611][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.04.23-15.21.35:611][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.04.23-15.21.35:724][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2025.04.23-15.21.35:729][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2025.04.23-15.21.35:730][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2025.04.23-15.21.35:831][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2025.04.23-15.21.35:879][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2025.04.23-15.21.35:882][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2025.04.23-15.21.35:895][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2025.04.23-15.21.35:919][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2025.04.23-15.21.35:919][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2025.04.23-15.21.35:938][  0]LogD3D12RHI:     GPU DeviceId: 0x2860 (for the marketing name, search the web for "GPU Device Id")
+[2025.04.23-15.21.35:938][  0]LogWindows: Attached monitors:
+[2025.04.23-15.21.35:938][  0]LogWindows:     resolution: 2560x1600, work area: (0, 0) -> (2560, 1600), device: '\\.\DISPLAY1' [PRIMARY]
+[2025.04.23-15.21.35:938][  0]LogWindows: Found 1 attached monitors.
+[2025.04.23-15.21.35:938][  0]LogWindows: EnumDisplayDevices:
+[2025.04.23-15.21.35:938][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2025.04.23-15.21.35:938][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2025.04.23-15.21.35:938][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2025.04.23-15.21.35:938][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2025.04.23-15.21.35:939][  0]LogWindows:    4. 'NVIDIA GeForce RTX 4070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2025.04.23-15.21.35:939][  0]LogWindows:    5. 'NVIDIA GeForce RTX 4070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2025.04.23-15.21.35:939][  0]LogWindows:    6. 'NVIDIA GeForce RTX 4070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2025.04.23-15.21.35:939][  0]LogWindows:    7. 'NVIDIA GeForce RTX 4070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2025.04.23-15.21.35:939][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2025.04.23-15.21.35:939][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 4070 Laptop GPU
+[2025.04.23-15.21.35:939][  0]LogD3D12RHI:   Driver Version: 566.36 (internal:32.0.15.6636, unified:566.36)
+[2025.04.23-15.21.35:939][  0]LogD3D12RHI:      Driver Date: 12-3-2024
+[2025.04.23-15.21.35:939][  0]LogRHI: Texture pool is 4523 MB (70% of 6462 MB)
+[2025.04.23-15.21.35:940][  0]LogD3D12RHI: Async texture creation enabled
+[2025.04.23-15.21.35:940][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2025.04.23-15.21.35:954][  0]LogRHI: GeForceNow SDK initialized: 0
+[2025.04.23-15.21.35:959][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/Unreal Projects backups/BeanBattleRoyale/BeanBattleRoyale.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Projects backups/BeanBattleRoyale/Intermediate/TurnkeyReport_0.log" -log="E:/Unreal Projects backups/BeanBattleRoyale/Intermediate/TurnkeyLog_0.log" -project="E:/Unreal Projects backups/BeanBattleRoyale/BeanBattleRoyale.uproject"  -platform=all'
+[2025.04.23-15.21.35:959][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Unreal Projects backups/BeanBattleRoyale/BeanBattleRoyale.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal Projects backups/BeanBattleRoyale/Intermediate/TurnkeyReport_0.log" -log="E:/Unreal Projects backups/BeanBattleRoyale/Intermediate/TurnkeyLog_0.log" -project="E:/Unreal Projects backups/BeanBattleRoyale/BeanBattleRoyale.uproject"  -platform=all" ]
+[2025.04.23-15.21.35:981][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2025.04.23-15.21.35:987][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2025.04.23-15.21.35:987][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2025.04.23-15.21.35:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.04.23-15.21.35:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.04.23-15.21.35:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.04.23-15.21.35:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.04.23-15.21.35:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.04.23-15.21.35:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.04.23-15.21.35:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.04.23-15.21.35:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.04.23-15.21.35:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.04.23-15.21.35:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.04.23-15.21.36:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2025.04.23-15.21.36:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2025.04.23-15.21.36:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.04.23-15.21.36:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.04.23-15.21.36:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.04.23-15.21.36:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2025.04.23-15.21.36:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.04.23-15.21.36:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.04.23-15.21.36:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2025.04.23-15.21.36:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2025.04.23-15.21.36:014][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2025.04.23-15.21.36:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.04.23-15.21.36:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.04.23-15.21.36:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.04.23-15.21.36:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2025.04.23-15.21.36:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.04.23-15.21.36:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.04.23-15.21.36:021][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2025.04.23-15.21.36:027][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.04.23-15.21.36:029][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2025.04.23-15.21.36:029][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2025.04.23-15.21.36:029][  0]LogTargetPlatformManager:   ADPCM
+[2025.04.23-15.21.36:029][  0]LogTargetPlatformManager:   PCM
+[2025.04.23-15.21.36:032][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2025.04.23-15.21.36:032][  0]LogTargetPlatformManager:   BINKA
+[2025.04.23-15.21.36:032][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2025.04.23-15.21.36:032][  0]LogTargetPlatformManager:   OGG
+[2025.04.23-15.21.36:032][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2025.04.23-15.21.36:032][  0]LogTargetPlatformManager:   OPUS
+[2025.04.23-15.21.36:075][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2025.04.23-15.21.36:075][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   SF_METAL
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2025.04.23-15.21.36:079][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2025.04.23-15.21.36:082][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2025.04.23-15.21.36:082][  0]LogTargetPlatformManager:   VVM_1_0
+[2025.04.23-15.21.36:082][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2025.04.23-15.21.36:082][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2025.04.23-15.21.36:082][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2025.04.23-15.21.36:082][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2025.04.23-15.21.36:082][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2025.04.23-15.21.36:082][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.04.23-15.21.36:082][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Unreal Projects backups/BeanBattleRoyale/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2025.04.23-15.21.36:085][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.04.23-15.21.36:085][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../Unreal Projects backups/BeanBattleRoyale/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2025.04.23-15.21.36:093][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.04.23-15.21.36:096][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal Projects backups/BeanBattleRoyale/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.04.23-15.21.36:096][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2025.04.23-15.21.36:096][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal Projects backups/BeanBattleRoyale/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.04.23-15.21.36:096][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2025.04.23-15.21.36:110][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2025.04.23-15.21.36:110][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.04.23-15.21.36:110][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2025.04.23-15.21.36:118][  0]LogDerivedDataCache: Speed tests for C:/Users/CochoRnG/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2025.04.23-15.21.36:118][  0]LogDerivedDataCache: Display: Performance to C:/Users/CochoRnG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1544.84MBs, RandomWriteSpeed=136.12MBs. Assigned SpeedClass 'Local'
+[2025.04.23-15.21.36:119][  0]LogDerivedDataCache: Using Local data cache path C:/Users/CochoRnG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.04.23-15.21.36:119][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.04.23-15.21.36:119][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2025.04.23-15.21.36:125][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2025.04.23-15.21.36:125][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.04.23-15.21.36:125][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../Unreal Projects backups/BeanBattleRoyale/Intermediate/Shaders/WorkingDirectory/2624/).
+[2025.04.23-15.21.36:126][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/CochoRnG/AppData/Local/Temp/UnrealShaderWorkingDir/644283B942187B1394BF42866B81794B/'.
+[2025.04.23-15.21.36:126][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.04.23-15.21.36:126][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2025.04.23-15.21.36:991][  0]LogSlate: Using FreeType 2.10.0
+[2025.04.23-15.21.36:991][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.04.23-15.21.37:022][  0]LogAssetRegistry: FAssetRegistry took 0.0088 seconds to start up
+[2025.04.23-15.21.37:026][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2025.04.23-15.21.37:136][  0]LogSerialization: UsePackageTrailer: 'false'
+[2025.04.23-15.21.37:136][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2025.04.23-15.21.37:364][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2025.04.23-15.21.37:364][  0]LogDeviceProfileManager: Active device profile: [000006D1EABD5CC0][000006D1E1795000 50] WindowsEditor
+[2025.04.23-15.21.37:364][  0]LogDeviceProfileManager: Profiles: [000006D1EABD5780][000006D1E179A000 50] Windows, [000006D1EABD5CC0][000006D1E1795000 50] WindowsEditor, [000006D1EABD5080][000006D1E1792800 50] WindowsServer, [000006D1EABD1A40][000006D1E15FA000 50] WindowsClient, [000006D1EABD4EC0][000006D1E1797800 50] IOS, [000006D1EABD4D00][000006D1EADD0000 50] iPadAir2, [000006D1EABD5E80][000006D1EADD7800 50] IPadPro, [000006D1EABD6200][000006D1EADD5000 50] iPadAir3, [000006D1EABD4600][000006D1EADDA000 50] iPadAir4, [000006D1EABD1500][000006D1EADDC800 50] iPadMini4, [000006D1EABD2300][000006D1C5725000 50] iPadMini5, [000006D1EABD1340][000006D1EADF0000 50] iPadMini6, [000006D1EABD8A40][000006D1EADFA000 50] iPhone6S, [000006D1EABD8880][000006D1EADF7800 50] iPhone7, [000006D1EABD8500][000006D1EADF5000 50] iPodTouch7, [000006D1EABD6C80][000006D1EADFC800 50] iPhone6SPlus, [000006D1EABD32C0][000006D1EADD2800 50] iPhone7Plus, [000006D1EABD3800][000006D1EAE00000 50] iPhoneSE, [000006D1EABD8C00][000006D1EAE05000 50] iPhone8, [000006D1EABD16C0][000006D1EAE07800 50] iPhone8Plus, [000006D1EABD4280][000006D1EAE0A000 50] iPhoneX, [000006D1EABD71C0][000006D1EAE0C800 50] iPhoneXS, [000006D1EABD6580][000006D1EADF2800 50] iPhoneXSMax, [000006D1EABD3D40][000006D1EAE10000 50] iPhoneXR, [000006D1EABD7FC0][000006D1EAE15000 50] iPhone11, [000006D1EABD1DC0][000006D1EAE17800 50] iPhone11Pro, [000006D1EABD6AC0][000006D1EAE1A000 50] iPhone11ProMax, [000006D1EABD8340][000006D1EAE1C800 50] iPhoneSE2, [000006D1EABD24C0][000006D1EAE02800 50] iPhone12Mini, [000006D1EABD6740][000006D1EAE20000 50] iPhone12, [000006D1EABD1180][000006D1EAE25000 50] iPhone12Pro, [000006D1EABD2840][000006D1EAE27800 50] iPhone12ProMax, [000006D1EABD63C0][000006D1EAE2A000 50] iPhone13Mini, [000006D1EABD1880][000006D1EAE2C800 50] iPhone13, [000006D1EABD4B40][000006D1EAE12800 50] iPhone13Pro, [000006D1EABD7A80][000006D1EAE30000 50] iPhone13ProMax, [000006D1EABD5240][000006D1EAE35000 50] iPadPro105, [000006D1EABD7540][000006D1EAE37800 50] iPadPro129, [000006D1EABD2D80][000006D1EAE3A000 50] iPadPro97, [000006D1EABD7700][000006D1EAE3C800 50] iPadPro2_129, [000006D1EABD0FC0][000006D1EAE22800 50] iPad5, [000006D1EABD39C0][000006D1EAE40000 50] iPad6, [000006D1EABD6E40][000006D1EAE45000 50] iPad7, [000006D1EABD3B80][000006D1EAE47800 50] iPad8, [000006D1EABD40C0][000006D1EAE4A000 50] iPad9, [000006D1EABD4440][000006D1EAE4C800 50] iPadPro11, [000006D1EABD2BC0][000006D1EAE32800 50] iPadPro2_11, [000006D1EABD7C40][000006D1EAE50000 50] iPadPro3_11, [000006D1EABD1C00][000006D1EAE55000 50] iPadPro3_129, [000006D1EABD47C0][000006D1EAE57800 50] iPadPro4_129, [000006D1EABD2140][000006D1EAE5A000 50] iPadPro5_129, [000006D1EABD5B00][000006D1EAE5C800 50] AppleTV, [000006D1EABD78C0][000006D1EAE42800 50] AppleTV4K, [000006D1EABD9840][000006D1EAE60000 50] TVOS, [000006D1EABDB280][000006D1EAE67800 50] Mac, [000006D1EABDB600][000006D1EAE65000 50] MacEditor, [000006D1EABDAB80][000006D1EAE6A000 50] MacClient, [000006D1EABD7380][000006D1EAE6C800 50] MacServer, [000006D1EABDB7C0][000006D1EAE90000 50] Linux, [000006D1EABDB0C0][000006D1EAE92800 50] LinuxEditor, [000006D1EABD2A00][000006D1EAE97800 50] LinuxArm64Editor, [000006D1EABDA800][000006D1EAE9A000 50] LinuxArm64, [000006D1EABD7E00][000006D1EAE9C800 50] LinuxClient, [000006D1EABD86C0][000006D1EAE52800 50] LinuxArm64Client, [000006D1EABDBB40][000006D1EAE95000 50] LinuxServer, [000006D1EABDA100][000006D1EAE80000 50] LinuxArm64Server, [000006D1EABD4980][000006D1EAE85000 50] Android, [000006D1EABD9D80][000006D1EAE87800 50] Android_Preview_OpenGL, [000006D1EABD9680][000006D1EAE8A000 50] Android_Preview_Vulkan, [000006D1EABD55C0][000006D1EAE8C800 50] Android_Low, [000006D1EABD9300][000006D1EAE62800 50] Android_Mid, [000006D1EABDB980][000006D1EAEA0000 50] Android_High, [000006D1EABD9A00][000006D1EAEA5000 50] Android_Default, [000006D1EABD8180][000006D1EAEA7800 50] Android_Adreno4xx, [000006D1EABD2F40][000006D1EAEAA000 50] Android_Adreno5xx_Low, [000006D1EABDA9C0][000006D1EAEAC800 50] Android_Adreno5xx, [000006D1EABDA640][000006D1EAE82800 50] Android_Adreno6xx, [000006D1EABD3100][000006D1EAEB0000 50] Android_Adreno6xx_Vulkan, [000006D1EABD2680][000006D1EAEB5000 50] Android_Adreno7xx, [000006D1EABD5400][000006D1EAEB7800 50] Android_Adreno7xx_Vulkan, [000006D1EABDC780][000006D1EAEBA000 50] Android_Mali_T6xx, [000006D1EABD8F80][000006D1EAEBC800 50] Android_Mali_T7xx, [000006D1EABD9140][000006D1EAEA2800 50] Android_Mali_T8xx, [000006D1EABDAF00][000006D1EAEC0000 50] Android_Mali_G71, [000006D1EABD6040][000006D1EAEC5000 50] Android_Mali_G72, [000006D1EABDC240][000006D1EAEC7800 50] Android_Mali_G72_Vulkan, [000006D1EABD1F80][000006D1EAECA000 50] Android_Mali_G76, [000006D1EABD3640][000006D1EAECC800 50] Android_Mali_G76_Vulkan, [000006D1EABD3F00][000006D1EAEB2800 50] Android_Mali_G77, [000006D1EABDD740][000006D1EAED0000 50] Android_Mali_G77_Vulkan, [000006D1EABD3480][000006D1EAED5000 50] Android_Mali_G78, [000006D1EABDC080][000006D1EAED7800 50] Android_Mali_G78_Vulkan, [000006D1EABDB440][000006D1EAEDA000 50] Android_Mali_G710, [000006D1EABDCB00][000006D1EAEDC800 50] Android_Mali_G710_Vulkan, [000006D1EABDD200][000006D1EAEC2800 50] Android_Xclipse_920, [000006D1EABDBD00][000006D1EAEE0000 50] Android_Xclipse_920_Vulkan, [000006D1EABD6900][000006D1EAEE5000 50] Android_Vulkan_SM5, [000006D1EABD8DC0][000006D1EAEE7800 50] Android_PowerVR_G6xxx, [000006D1EABDAD40][000006D1EAEEA000 50] Android_PowerVR_GT7xxx, [000006D1EABDE540][000006D1EAEEC800 50] Android_PowerVR_GE8xxx, [000006D1EABDE700][000006D1EAED2800 50] Android_PowerVR_GM9xxx, [000006D1EABDE380][000006D1EAEF0000 50] Android_PowerVR_GM9xxx_Vulkan, [000006D1EABDD580][000006D1EAEF5000 50] Android_TegraK1, [000006D1EABDC940][000006D1EAEF7800 50] Android_Unknown_Vulkan, [000006D1EABDDE40][000006D1EAEFA000 50] Oculus_Quest, [000006D1EABDD900][000006D1EAEFC800 50] Oculus_Quest2, [000006D1EABDF6C0][000006D1EAEE2800 50] HoloLens, 
+[2025.04.23-15.21.37:364][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2025.04.23-15.21.37:373][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2025.04.23-15.21.37:667][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.04.23-15.21.37:667][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.04.23-15.21.37:667][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.04.23-15.21.37:667][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.04.23-15.21.37:667][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.04.23-15.21.37:680][  0]LogNetVersion: BeanBattleRoyale 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2217045633)
+[2025.04.23-15.21.37:770][  0]LogSlate: Border
+[2025.04.23-15.21.37:770][  0]LogSlate: BreadcrumbButton
+[2025.04.23-15.21.37:770][  0]LogSlate: Default
+[2025.04.23-15.21.37:770][  0]LogSlate: Icons.Save
+[2025.04.23-15.21.37:770][  0]LogSlate: Icons.Toolbar.Settings
+[2025.04.23-15.21.37:770][  0]LogSlate: ListView
+[2025.04.23-15.21.37:770][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.04.23-15.21.37:770][  0]LogSlate: SoftwareCursor_Grab
+[2025.04.23-15.21.37:770][  0]LogSlate: TableView.DarkRow
+[2025.04.23-15.21.37:770][  0]LogSlate: TableView.Row
+[2025.04.23-15.21.37:770][  0]LogSlate: TreeView
+[2025.04.23-15.21.37:899][  0]SourceControl: Source control is disabled
+[2025.04.23-15.21.37:915][  0]SourceControl: Source control is disabled
+[2025.04.23-15.21.37:915][  0]SourceControl: Source control is disabled
+[2025.04.23-15.21.38:106][  0]LogUObjectArray: 20565 objects as part of root set at end of initial load.
+[2025.04.23-15.21.38:106][  0]LogUObjectAllocator: 5604192 out of 0 bytes used by permanent object pool.
+[2025.04.23-15.21.38:106][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.04.23-15.21.38:372][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F7B73EBC4F194363E26B94880CBC53D9 | Instance: A38C8CEE426F0D2529FDF58FA3011038 (DESKTOP-9N8V251-2624).
+[2025.04.23-15.21.38:398][  0]LogPython: Using Python 3.9.7
+[2025.04.23-15.21.38:891][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.04.23-15.21.38:894][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.04.23-15.21.39:426][  0]SourceControl: Source control is disabled
+[2025.04.23-15.21.39:428][  0]SourceControl: Source control is disabled
+[2025.04.23-15.21.39:436][  0]SourceControl: Source control is disabled
+[2025.04.23-15.21.39:442][  0]LogUProjectInfo: Found projects:
+[2025.04.23-15.21.41:796][  0]LogOpenImageDenoise: OIDN starting up
+[2025.04.23-15.21.41:830][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.04.23-15.21.41:843][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.23-15.21.41:843][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.23-15.21.41:922][  0]LogCollectionManager: Loaded 0 collections in 0.013385 seconds
+[2025.04.23-15.21.42:082][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects backups/BeanBattleRoyale/Saved/Collections/' took 0.00s
+[2025.04.23-15.21.42:082][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects backups/BeanBattleRoyale/Content/Developers/CochoRnG/Collections/' took 0.00s
+[2025.04.23-15.21.42:082][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects backups/BeanBattleRoyale/Content/Collections/' took 0.00s
+[2025.04.23-15.21.42:382][  0]LogEngine: Initializing Engine...
+[2025.04.23-15.21.42:389][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.04.23-15.21.42:411][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.04.23-15.21.42:567][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.04.23-15.21.42:567][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.04.23-15.21.42:574][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.23-15.21.42:587][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.04.23-15.21.42:588][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.04.23-15.21.42:599][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.04.23-15.21.42:599][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.04.23-15.21.42:599][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.04.23-15.21.42:600][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.04.23-15.21.42:600][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.04.23-15.21.42:600][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.23-15.21.42:600][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.23-15.21.42:600][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.23-15.21.42:600][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.23-15.21.42:600][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.23-15.21.42:600][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.23-15.21.42:600][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.23-15.21.42:600][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.23-15.21.42:600][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.23-15.21.42:600][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.23-15.21.42:600][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.23-15.21.42:608][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.23-15.21.42:636][  0]LogAudioMixer: Display: Using Audio Hardware Device VG245 (HD Audio Driver for Display Audio)
+[2025.04.23-15.21.42:636][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.23-15.21.42:637][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.23-15.21.42:637][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.23-15.21.42:638][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.04.23-15.21.42:638][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.04.23-15.21.42:639][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.23-15.21.42:639][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.04.23-15.21.42:639][  0]LogInit: FAudioDevice initialized.
+[2025.04.23-15.21.42:639][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.04.23-15.21.42:639][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.04.23-15.21.42:639][  0]LogInit: Texture streaming: Enabled
+[2025.04.23-15.21.42:658][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2025.04.23-15.21.42:663][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.04.23-15.21.42:677][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.04.23-15.21.42:681][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.04.23-15.21.42:681][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: BeanBattleRoyaleEditor Win64 Development
+[2025.04.23-15.21.53:724][  0]LogLiveCoding: Display: First instance in process group "UE_BeanBattleRoyale_0xc548678d", spawning console
+[2025.04.23-15.21.53:724][  0]LogLiveCoding: Display: Waiting for server
+[2025.04.23-15.21.53:724][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.04.23-15.21.53:887][  0]LogInit: Transaction tracking system initialized
+[2025.04.23-15.21.53:926][  0]BlueprintLog: New page: Editor Load
+[2025.04.23-15.21.54:033][  0]LocalizationService: Localization service is disabled
+[2025.04.23-15.21.54:063][  0]TimingProfiler: Initialize
+[2025.04.23-15.21.54:063][  0]TimingProfiler: OnSessionChanged
+[2025.04.23-15.21.54:063][  0]LoadingProfiler: Initialize
+[2025.04.23-15.21.54:063][  0]LoadingProfiler: OnSessionChanged
+[2025.04.23-15.21.54:063][  0]NetworkingProfiler: Initialize
+[2025.04.23-15.21.54:063][  0]NetworkingProfiler: OnSessionChanged
+[2025.04.23-15.21.54:063][  0]MemoryProfiler: Initialize
+[2025.04.23-15.21.54:063][  0]MemoryProfiler: OnSessionChanged
+[2025.04.23-15.21.54:630][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects backups/BeanBattleRoyale/Content/' took 0.01s
+[2025.04.23-15.21.54:630][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.04.23-15.21.54:664][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.04.23-15.21.54:666][  0]SourceControl: Source control is disabled
+[2025.04.23-15.21.54:666][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.489
+[2025.04.23-15.21.54:666][  0]Cmd: MAP LOAD FILE="../../../../Unreal Projects backups/BeanBattleRoyale/Content/Levels/MainMenu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.04.23-15.21.54:666][  0]LightingResults: New page: Lighting Build
+[2025.04.23-15.21.54:669][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.04.23-15.21.54:669][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.23-15.21.54:669][  0]MapCheck: New page: Map Check
+[2025.04.23-15.21.54:669][  0]LightingResults: New page: Lighting Build
+[2025.04.23-15.21.54:674][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.23-15.21.54:677][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.23-15.21.54:864][  0]LogTexture: Display: Building textures: /Game/Assets/Character/Accessories/Textures/T_Gradients.T_Gradients (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2025.04.23-15.21.54:864][  0]LogMaterial: Display: Missing cached shadermap for M_Main_Accessories in PCD3D_SM5, Default, SM5 (DDC key hash: 6279797D7AEC03C39196110261FB5941906F6E0F), compiling. 
+[2025.04.23-15.21.54:932][  0]LogTexture: Display: Building textures: /Game/Widgets/MainMenu/background.background (TFO_AutoDXT, 1536X1024 X1X1) (Required Memory Estimate: 30.000 MB), EncodeSpeed: Fast
+[2025.04.23-15.21.54:932][  0]LogStaticMesh: Display: Building static mesh SM_Hard_Hat...
+[2025.04.23-15.21.54:932][  0]LogStaticMesh: Display: Building static mesh SM_Cone_Hat...
+[2025.04.23-15.21.54:932][  0]LogStaticMesh: Display: Building static mesh SM_Viking_Hat...
+[2025.04.23-15.21.54:932][  0]LogStaticMesh: Display: Building static mesh SM_Party_Hat...
+[2025.04.23-15.21.54:934][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu_Level'.
+[2025.04.23-15.21.54:934][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.04.23-15.21.54:934][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.23-15.21.54:935][  0]LogAIModule: Creating AISystem for world MainMenu_Level
+[2025.04.23-15.21.54:955][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Character/Accessories/SM_Hard_Hat.SM_Hard_Hat
+[2025.04.23-15.21.54:955][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Character/Accessories/SM_Viking_Hat.SM_Viking_Hat
+[2025.04.23-15.21.54:955][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Character/Accessories/SM_Party_Hat.SM_Party_Hat
+[2025.04.23-15.21.54:955][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Character/Accessories/SM_Cone_Hat.SM_Cone_Hat
+[2025.04.23-15.21.54:989][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.23-15.21.54:996][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.04.23-15.21.54:996][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.23-15.21.54:996][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2025.04.23-15.21.54:996][  0]LogFileHelpers: Loading map 'MainMenu_Level' took 0.330
+[2025.04.23-15.21.55:005][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.827
+[2025.04.23-15.21.55:005][  0]LogShaderCompilers: Display: ================================================
+[2025.04.23-15.21.55:005][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.23-15.21.55:005][  0]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2025.04.23-15.21.55:005][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2025.04.23-15.21.55:005][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2025.04.23-15.21.55:005][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.23-15.21.55:005][  0]LogShaderCompilers: Display: Shaders Compiled: 16
+[2025.04.23-15.21.55:005][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.04.23-15.21.55:005][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.04.23-15.21.55:005][  0]LogShaderCompilers: Display: ================================================
+[2025.04.23-15.21.55:242][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.04.23-15.21.55:243][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.04.23-15.21.55:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.23-15.21.55:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.23-15.21.55:380][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.23-15.21.55:395][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.23-15.21.55:608][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.04.23-15.21.55:609][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.23-15.21.55:652][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.04.23-15.21.55:652][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.23-15.21.55:677][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.04.23-15.21.55:677][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.23-15.21.55:702][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.04.23-15.21.55:702][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.23-15.21.55:763][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.04.23-15.21.55:763][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.23-15.21.55:790][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.04.23-15.21.55:790][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.23-15.21.55:813][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.04.23-15.21.55:813][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.23-15.21.55:834][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.04.23-15.21.55:834][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.23-15.21.55:856][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.04.23-15.21.55:856][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.23-15.21.55:878][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.04.23-15.21.55:878][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.23-15.21.55:880][  0]LogFeaturePack: Error: Error in Feature pack E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2025.04.23-15.21.59:581][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.23-15.21.59:594][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.23-15.21.59:660][  0]LogSlate: Took 0.027364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.23-15.21.59:699][  0]LogSlate: Took 0.021412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.23-15.21.59:724][  0]LogSlate: Took 0.020434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.23-15.21.59:884][  0]LogViewport: Scene viewport resized to 1682x568, mode Windowed.
+[2025.04.23-15.22.02:170][  0]LogStall: Startup...
+[2025.04.23-15.22.02:171][  0]LogStall: Startup complete.
+[2025.04.23-15.22.02:227][  0]LogLoad: (Engine Initialization) Total time: 29.05 seconds
+[2025.04.23-15.22.02:227][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.04.23-15.22.02:321][  0]LogAssetRegistry: Asset discovery search completed in 25.2998 seconds
+[2025.04.23-15.22.02:365][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2025.04.23-15.22.02:384][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.04.23-15.22.02:584][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/Unreal Projects backups/BeanBattleRoyale/Content/' took 0.29s
+[2025.04.23-15.22.02:862][  2]LogSlate: Took 0.012339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.23-15.22.10:047][376]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.04.23-15.22.10:047][376]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.04.23-15.22.15:088][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.04.23-15.22.15:907][668]LogTexture: Display: Building textures: /Game/Assets/Props/Textures/T_Parachute.T_Parachute (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.15:907][668]LogTexture: Display: Building textures: /Game/Assets/Props/Textures/T_Airstaff.T_Airstaff (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.15:907][668]LogTexture: Display: Building textures: /Game/Assets/Props/Zone/Materials/Holograms/Textures/T_InteractionFieldGradient.T_InteractionFieldGradient (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.15:907][668]LogTexture: Display: Building textures: /Game/Assets/Props/Textures/T_HealthPack.T_HealthPack (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.15:908][668]LogTexture: Display: Building textures: /Game/Assets/Props/Zone/Materials/Holograms/Textures/T_InteractionFieldNoise.T_InteractionFieldNoise (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.15:908][668]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_AssaultRifle_Reload...
+[2025.04.23-15.22.15:909][668]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Audio/SW_AssaultRifle_Reload.SW_AssaultRifle_Reload will be modified from 40 to 40.
+[2025.04.23-15.22.15:917][668]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 274432 while cooking SoundWave /Game/Assets/Audio/SW_AssaultRifle_Reload.SW_AssaultRifle_Reload.
+[2025.04.23-15.22.15:919][668]LogAudio: Display: Chunk size for SoundWave /Game/Assets/Audio/SW_AssaultRifle_Reload.SW_AssaultRifle_Reload: 262144
+[2025.04.23-15.22.15:922][668]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_AssaultRifleShot...
+[2025.04.23-15.22.15:922][668]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Audio/SW_AssaultRifleShot.SW_AssaultRifleShot will be modified from 40 to 40.
+[2025.04.23-15.22.15:924][668]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 67584 while cooking SoundWave /Game/Assets/Audio/SW_AssaultRifleShot.SW_AssaultRifleShot.
+[2025.04.23-15.22.15:924][668]LogAudio: Display: Chunk size for SoundWave /Game/Assets/Audio/SW_AssaultRifleShot.SW_AssaultRifleShot: 262144
+[2025.04.23-15.22.15:928][668]LogTexture: Display: Building textures: /Game/Assets/Props/Textures/T_AssaultRifle.T_AssaultRifle (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.15:928][668]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_PistolReload...
+[2025.04.23-15.22.15:929][668]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Audio/SW_PistolReload.SW_PistolReload will be modified from 40 to 40.
+[2025.04.23-15.22.15:941][668]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 278528 while cooking SoundWave /Game/Assets/Audio/SW_PistolReload.SW_PistolReload.
+[2025.04.23-15.22.15:941][668]LogAudio: Display: Chunk size for SoundWave /Game/Assets/Audio/SW_PistolReload.SW_PistolReload: 262144
+[2025.04.23-15.22.15:942][668]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_PistolShot...
+[2025.04.23-15.22.15:942][668]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Audio/SW_PistolShot.SW_PistolShot will be modified from 40 to 40.
+[2025.04.23-15.22.15:949][668]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 167936 while cooking SoundWave /Game/Assets/Audio/SW_PistolShot.SW_PistolShot.
+[2025.04.23-15.22.15:949][668]LogAudio: Display: Chunk size for SoundWave /Game/Assets/Audio/SW_PistolShot.SW_PistolShot: 262144
+[2025.04.23-15.22.15:950][668]LogTexture: Display: Building textures: /Game/Assets/Props/Textures/T_Pistol.T_Pistol (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.15:950][668]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_AirplaneLoop...
+[2025.04.23-15.22.15:967][668]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Audio/SW_AirplaneLoop.SW_AirplaneLoop will be modified from 40 to 40.
+[2025.04.23-15.22.15:987][668]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 875264 while cooking SoundWave /Game/Assets/Audio/SW_AirplaneLoop.SW_AirplaneLoop.
+[2025.04.23-15.22.15:987][668]LogAudio: Display: Chunk size for SoundWave /Game/Assets/Audio/SW_AirplaneLoop.SW_AirplaneLoop: 262144
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Assets/Props/Textures/T_Plane.T_Plane (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Assets/Props/Textures/T_Chest.T_Chest (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_10 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_12 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_11 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_13 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_16 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_17 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_14 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_15 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_5 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_9 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_7 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap1_19 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap1_18 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap1_22 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap1_21 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap1_20 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:LQ_Lightmap_0_10 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:LQ_Lightmap_0_11 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:LQ_Lightmap_0_12 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:LQ_Lightmap_0_13 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogDerivedDataCache: C:/Users/CochoRnG/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/CochoRnG/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/ce/af/64a73423124399fda4b9c6e0e1695f959668.udd from '/Game/Levels/BattleRoyale_Level_BuiltData.BattleRoyale_Level_BuiltData:LQ_Lightmap_0_10'.
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Assets/Props/Textures/T_Tree.T_Tree (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Assets/Props/Textures/T_Boulder.T_Boulder (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:336][668]LogTexture: Display: Building textures: /Game/Assets/Materials/Landscape/Textures/T_Rock.T_Rock (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Assets/Materials/Landscape/Textures/T_Grass.T_Grass (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Assets/Materials/Landscape/Textures/T_Ground.T_Ground (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_104 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_100 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_101 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_106 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_107 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_105 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_108 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_114 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_109 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_110 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_111 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_115 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_117 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_116 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_118 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_121 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_119 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_120 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_124 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_125 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_128 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_130 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_129 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_131 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_132 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_133 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_138 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_135 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_139 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_134 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_140 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_141 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_142 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_144 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_145 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_143 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_149 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_148 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_150 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_151 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_152 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_153 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_155 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_159 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_158 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_154 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_161 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_160 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_164 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_162 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_163 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Anims/AS_AO_BeanBase.AS_AO_BeanBase
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_168 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_169 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_165 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_171 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_170 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_172 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_175 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:337][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_174 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_173 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_44 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_46 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_45 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_47 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_48 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_49 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_5 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_51 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_54 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_50 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_56 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_55 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_57 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_58 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_59 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_60 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_65 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_68 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_64 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_61 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_66 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_67 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_70 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_69 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_71 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_74 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_7 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_75 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_76 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_78 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_77 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Character/Anims/AS_Bean_AO_Forward.AS_Bean_AO_Forward
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_79 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_84 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_85 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:338][668]LogMaterial: Display: Missing cached shadermap for M_BeanCharacter in PCD3D_SM5, Default, SM5 (DDC key hash: C5580F109404AF9E96C1C31474EEB7DBD5A42F79), compiling. 
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_86 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_87 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_88 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_89 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_9 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_91 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_90 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_94 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_95 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_96 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_97 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_10 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_98 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Heightmap_99 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_103 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_102 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_112 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_11 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_113 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_12 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_122 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_136 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_123 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_13 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_147 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_137 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_146 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_15 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_17 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_157 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_176 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_177 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_156 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_178 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_180 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_179 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_181 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_182 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_183 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_184 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_185 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_186 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_187 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_24 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_25 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_26 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_29 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_27 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_33 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_34 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_35 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_38 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_37 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_40 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_39 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_41 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_8 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_92 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_9 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogTexture: Display: Building textures: /Game/Levels/BattleRoyale_Level.BattleRoyale_Level:PersistentLevel.Landscape_0.Weightmap_93 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2025.04.23-15.22.16:407][668]LogMaterial: Display: Missing cached shadermap for M_Props in PCD3D_SM5, Default, SM5 (DDC key hash: BEFBAA744D5E46AE03528E61A1B2A7CA4DF7E82A), compiling. 
+[2025.04.23-15.22.16:471][668]LogSkeletalMesh: Building Skeletal Mesh SK_Bean...
+[2025.04.23-15.22.16:471][668]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Assets/Character/Foundation/SK_Bean.SK_Bean
+[2025.04.23-15.22.16:471][668]LogStaticMesh: Display: Building static mesh SM_Parachute...
+[2025.04.23-15.22.16:471][668]LogMaterial: Display: Missing cached shadermap for M_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 594A654B11C415738044816AC3860142D1E34119), compiling. 
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Props/SM_Parachute.SM_Parachute
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Display: Building static mesh SM_Zone...
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Display: Building static mesh SM_HealthPack...
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Props/Zone/Meshes/Props/SM_Zone.SM_Zone
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Props/SM_HealthPack.SM_HealthPack
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Display: Building static mesh SM_AssaultRifle...
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Display: Building static mesh SM_Pistol...
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Display: Building static mesh SM_Plane...
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Display: Building static mesh SM_ChestLid...
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Display: Building static mesh SM_Chest...
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Props/SM_AssaultRifle.SM_AssaultRifle
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Props/SM_Pistol.SM_Pistol
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Props/SM_ChestLid.SM_ChestLid
+[2025.04.23-15.22.16:807][668]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Props/SM_Chest.SM_Chest
+[2025.04.23-15.22.16:807][668]LogMaterial: Display: Missing cached shadermap for M_Landscape in PCD3D_SM5, Default, SM5 (DDC key hash: 3AC1FDC35A5608422C6634201CFA3D2347131855), compiling. 
+[2025.04.23-15.22.16:861][668]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Props/SM_Plane.SM_Plane
+[2025.04.23-15.22.16:862][668]LogMaterial: Display: Missing cached shadermap for M_Water in PCD3D_SM5, Default, SM5 (DDC key hash: 7A2A079A80FE7441A2CB6DC7C8CAC05DCAD52A54), compiling. 
+[2025.04.23-15.22.16:943][668]LogStaticMesh: Display: Building static mesh SM_Boulder...
+[2025.04.23-15.22.16:943][668]LogStaticMesh: Display: Building static mesh SM_Tree...
+[2025.04.23-15.22.16:943][668]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Props/SM_Tree.SM_Tree
+[2025.04.23-15.22.16:943][668]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Props/SM_Boulder.SM_Boulder
+[2025.04.23-15.22.16:943][668]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_66 in PCD3D_SM5, Default, SM5 (DDC key hash: 6BA73881769BDBC9AC9DF4A5524082871D6B0C65), compiling. 
+[2025.04.23-15.22.17:034][668]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_67 in PCD3D_SM5, Default, SM5 (DDC key hash: E80C2D5DBD7C2305A5F17C56B6B1C97B61E3F4E6), compiling. 
+[2025.04.23-15.22.17:101][668]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C16D100DB75178A4DB1E253E4BD613C7BE77AB3), compiling. 
+[2025.04.23-15.22.17:372][668]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/BattleRoyale_Level.BattleRoyale_Level
+[2025.04.23-15.22.17:373][668]Cmd: MAP LOAD FILE="../../../../Unreal Projects backups/BeanBattleRoyale/Content/Levels/BattleRoyale_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.04.23-15.22.17:374][668]LightingResults: New page: Lighting Build
+[2025.04.23-15.22.17:374][668]LoadErrors: New page: Loading map: BattleRoyale_Level.umap
+[2025.04.23-15.22.17:375][668]LogWorld: UWorld::CleanupWorld for MainMenu_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.23-15.22.17:378][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.23-15.22.17:381][668]MapCheck: New page: Map Check
+[2025.04.23-15.22.17:381][668]LightingResults: New page: Lighting Build
+[2025.04.23-15.22.17:390][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.23-15.22.17:400][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.23-15.22.17:422][668]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorResources/EmptyActor) ...

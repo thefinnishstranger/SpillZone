@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BeanBattleRoyale",
+			"Path": "C:\\Users\\gomez\\OneDrive\\Documents\\Unreal Projects\\BeanBattleRoyale\\Source\\BeanBattleRoyale.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BeanBattleRoyaleEditor",
+			"Path": "C:\\Users\\gomez\\OneDrive\\Documents\\Unreal Projects\\BeanBattleRoyale\\Source\\BeanBattleRoyaleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

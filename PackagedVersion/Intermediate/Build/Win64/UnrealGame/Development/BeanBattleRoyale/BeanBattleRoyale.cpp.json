@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\gomez\\onedrive\\documents\\unreal projects\\beanbattleroyale\\source\\beanbattleroyale\\beanbattleroyale.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gomez\\onedrive\\documents\\unreal projects\\beanbattleroyale\\intermediate\\build\\win64\\beanbattleroyale\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\gomez\\onedrive\\documents\\unreal projects\\beanbattleroyale\\intermediate\\build\\win64\\unrealgame\\development\\beanbattleroyale\\definitions.beanbattleroyale.h",
+            "c:\\users\\gomez\\onedrive\\documents\\unreal projects\\beanbattleroyale\\source\\beanbattleroyale\\beanbattleroyale.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
