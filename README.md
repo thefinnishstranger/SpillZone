@@ -46,7 +46,7 @@ Professor: Professor Dakshit
 
 ## 📦 Project Structure
 
-- `/SpillZoneProject/` – Unreal Engine 5 project files (source code, maps, assets)
+- `/SpillZoneSource/` – Unreal Engine 5 project files (source code, maps, assets)
 - `/SpillZoneBuild/` – Packaged Windows build for playing via LAN
 
 ---
