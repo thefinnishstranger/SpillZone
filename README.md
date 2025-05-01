@@ -57,7 +57,7 @@ To view or modify the game:
 
 1. Install **Visual Studio 2019 or newer**
 2. Install **Unreal Engine 5.0.3 (exact version)**
-3. Open `SpillZoneSource/SpillZone.uproject` in UE5
+3. Open `SpillZoneSource/BeanBattleRoyale.uproject` in UE5
 4. Use **Play in Editor** with listen server to simulate multiplayer
 
 ### 🖥 Option 2: Play the packaged build (LAN mode)
