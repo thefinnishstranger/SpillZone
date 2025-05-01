@@ -1,7 +1,7 @@
 # SpillZone
 
 **Local Multiplayer Battle Game**  
-Created by Team Plus One  
+Created by Plus One  
 Course: COSC 4375.001  
 Professor: Professor Dakshit
 
@@ -20,7 +20,7 @@ Professor: Professor Dakshit
 - Item pickups and lootable chests
 - Custom terrain and hand-built map
 - Menu system for game control
-- Built in Unreal Engine 5.0
+- Built in Unreal Engine 5.0.3
 
 ---
 
